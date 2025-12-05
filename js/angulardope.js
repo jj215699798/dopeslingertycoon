@@ -120,20 +120,20 @@ var productionUpgradesMaster = [
   new ProductionUpgrade('Cartel deal', 'Broker a deal with a major cartel south of the border. Increases the amount of cocaine smuggled by your drug mules by 80%!', 1500000, 'Drug Mule', 1.8, 'Cocaine'),
   new ProductionUpgrade('DEA Mole', 'Install a mole within the DEA to help make your operations go more smoothly. Increases the amount of cocaine smuggled by your drug mules by 50%!', 2500000, 'Drug Mule', 200.5, 'Cocaine'),
 
-  new ProductionUpgrade('Cult Leader Cain', 'Religious leader of the Nuke cult. Increases the amount of Nuke made by your Robot Criminals by 60%!', 14500000, 'Robot Criminal', 1.6, 'Nuke'),
+  new ProductionUpgrade('Cult Leader Cain', 'Religious leader of the Nuke cult. Increases the amount of Nuke made by your Robot Criminals by 60%!', 14500000, 'Robot Criminal', 10.6, 'Nuke'),
   new ProductionUpgrade('Deprogrammed Robocop', 'The one thing slowing down your Nuke operation, reprogrammed to use against your enemies! Increases the amount of Nuke made by your Robot Criminals by 50%!', 28000000, 'Robot Criminal', 200.5, 'Nuke'),
 
-  new ProductionUpgrade('Neural Net Research', 'Increases the amount of Cyber Crank made by your Blackhat Hiveminds by 50%!', 45000000, 'Blackhat Hivemind', 1.5, 'Cyber Crank'),
+  new ProductionUpgrade('Neural Net Research', 'Increases the amount of Cyber Crank made by your Blackhat Hiveminds by 50%!', 45000000, 'Blackhat Hivemind', 10.5, 'Cyber Crank'),
   new ProductionUpgrade('Global Botnet', 'Increases the amount of Cyber Crank made by your Blackhat Hiveminds by 45%!', 75000000, 'Blackhat Hivemind', 200.45, 'Cyber Crank'),
 
-  new ProductionUpgrade('Human Test Subjects', 'Test your drug batches on human subjects. They might not survive the process but it will increase the amount of Ephemerol produced by 60%!', 120000000, 'Secret Facility', 1.6, 'Ephemerol'),
+  new ProductionUpgrade('Human Test Subjects', 'Test your drug batches on human subjects. They might not survive the process but it will increase the amount of Ephemerol produced by 60%!', 120000000, 'Secret Facility', 10.6, 'Ephemerol'),
   new ProductionUpgrade('ConSec Scanner', 'Increases the amount of Ephemerol made by your Secret Facilities by 75%!', 275000000, 'Secret Facility', 200.75, 'Ephemerol'),
 
   new ProductionUpgrade('Peachtree Block', 'Give your Chem-techs somewhere safe to work. Increases the amount of Slo-mo produced by 100%!', 575000000, 'Chem-tech', 2, 'Slo-mo'),
 
-  new ProductionUpgrade('The Ludovico Technique', 'Take control over your Droogs and keep them focused on the important work of producing Drencrom. Increases the amount of Drencrom produced by 100%!', 575000000, 'Droog Squad', 2, 'Drencrom'),
+  new ProductionUpgrade('The Ludovico Technique', 'Take control over your Droogs and keep them focused on the important work of producing Drencrom. Increases the amount of Drencrom produced by 100%!', 575000000, 'Droog Squad', 2000, 'Drencrom'),
 
-  new ProductionUpgrade('Guild Navigator', 'Increases the amount of Melange produced by 30%!', 2575000000, 'Sandworm', 1.3, 'Melange'),
+  new ProductionUpgrade('Guild Navigator', 'Increases the amount of Melange produced by 30%!', 2575000000, 'Sandworm', 10.3, 'Melange'),
   new ProductionUpgrade("Muad'Dib", 'Leader of the Fremen. Increases the amount of Melange produced by 50%!', 7900000000, 'Sandworm', 200.5, 'Melange')
 ];
 
