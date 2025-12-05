@@ -283,7 +283,7 @@ var drugsMaster = createDrugsMaster();
       this.discountUpgrades = 0;
       this.workMode = false;
       this.lastDealerRefresh = 0;
-      this.silkRoadUnlocked = false;
+      this.silkRoadUnlocked = true;
     }
 
     angular.module('dopeslingerApp', ['ngSanitize', 'ngAnimate','jg.progressbar'])
