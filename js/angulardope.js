@@ -216,7 +216,7 @@ var drugsMaster = createDrugsMaster();
       new Producer('Opium Farm', 30000, 'Heroin', 1.25, 0.5),
       new Producer('Chemistry Professor', 40000, 'MDMA', 1.26, 0.4),
       new Producer('Drug Mule', 50000, 'Cocaine', 1.27, 0.25),
-      new Producer('Robot Criminal', 700000, 'Nuke', 1.28, 0.16),
+      new Producer('Robot Criminal', 700000, 'Nuke', 1.28, 0.6),
       new Producer('Blackhat Hivemind', 2500000, 'Cyber Crank', 1.29, 0.8),
       new Producer('Secret Facility', 5000000, 'Ephemerol', 1.30, 0.4),
       new Producer('Chem-tech', 12000000, 'Slo-mo', 1.31, 0.2),
